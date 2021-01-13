@@ -3,6 +3,20 @@
 This is a Python script that generates TCL code automatically for constraint
 buses.
 
+## Usage
+
+The script is usable in Python explicitly through the command line. First, the
+user inputs the bus name, followed by all pins. When the user wishes to stop
+entering pins, they may enter `0x0`. The
+
+## Why is this heavily object-oriented?
+
+¯\\_(ツ)_/¯
+
+## Why isn't this written in Java?
+
+Maybe it should be written in Java.
+
 # License TL;DR
 
 This project is distributed under the MIT license. This is a paraphrasing of a
