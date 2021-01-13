@@ -1,4 +1,4 @@
-# TCL Generator
+# Constraints Generator
 
 This is a Python script that generates TCL code automatically for constraint
 buses.
