@@ -7,7 +7,8 @@ buses.
 
 The script is usable in Python explicitly through the command line. First, the
 user inputs the bus name, followed by all pins. When the user wishes to stop
-entering pins, they may enter `0x0`. The
+entering pins, they may enter `0x0`. The script then automatically generates TCL
+lines suitable for copying into Vivado or another editor.
 
 ## Why is this heavily object-oriented?
 
