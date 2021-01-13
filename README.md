@@ -18,6 +18,12 @@ lines suitable for copying into Vivado or another editor.
 
 Maybe it should be written in Java.
 
+## Will you extend this project?
+
+No.
+
+In all seriousness, feel free to submit a PR.
+
 # License TL;DR
 
 This project is distributed under the MIT license. This is a paraphrasing of a
