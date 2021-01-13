@@ -12,7 +12,7 @@ lines suitable for copying into Vivado or another editor.
 
 ## Why is this heavily object-oriented?
 
-¯\\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
 
 ## Why isn't this written in Java?
 
